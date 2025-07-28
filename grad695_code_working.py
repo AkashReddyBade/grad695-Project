@@ -143,7 +143,7 @@ def generate_analysis_summary(hotel_data):
         return "Could not generate summary due to an error."
 
 def main():
-    google_api_key = 'AIzaSyCNG8uJxG-f-O3y7i-luPSzSh68omGFxx0'
+    google_api_key = 'AIzaSyCjmVdtwPi7Ez5CKRL_o5NvL673Kzmh5cs'
     location = input("Enter a location to search for hotels: ")
 
     # Get top 10 hotels in the location
